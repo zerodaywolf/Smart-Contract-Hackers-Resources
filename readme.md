@@ -1,13 +1,16 @@
 # Smart Contract Hackers Resources
 A collection of repositories, links, wargames, for Smart Contract security.
 
-## WarGames
+## CTFs & WarGames
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 - [Capture The Ether](https://capturetheether.com/)
 - [The Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Blockchain CTF by Security Innovation](https://blockchain-ctf.securityinnovation.com/#/)
 - [GOAT Casino](https://github.com/nccgroup/GOATCasino)
 - [Etherhack](https://etherhack.positive.com)
+- [Cipher Shastra](https://ciphershastra.com)
+- [DeFi Hack](https://www.defihack.xyz/)
+- [Gacha Lab](https://gachalab.inspex.co/)
 - [Paradigm CTF (GitHub)](https://github.com/paradigm-operations/paradigm-ctf-2021)
 - [Paradigm CTF](https://ctf.paradigm.xyz/)
 
